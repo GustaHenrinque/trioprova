@@ -1,4 +1,4 @@
-#Gustavo, Julia e Rian
+#Gustavo, Julia Conconi e Rian
 
 def cidade_com_maior_temperatura(dados_climaticos):
 
