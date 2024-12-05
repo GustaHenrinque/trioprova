@@ -24,6 +24,6 @@ def calcular_media_temperaturas(arquivo_csv):
     return medias_por_mes
 
 
-arquivo = r'C:\Users\Júlia\Documents\tarefapython-trio\trioprova\exerc.8\dados.csv'  # Use o caminho completo
+arquivo = r'C:\Users\Júlia\Documents\tarefapython-trio\trioprova\exerc.8\dados.csv' 
 media_temperaturas = calcular_media_temperaturas(arquivo)
 print(media_temperaturas)

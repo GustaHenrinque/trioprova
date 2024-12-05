@@ -34,3 +34,4 @@ dados_climaticos = [
 ]
 
 gerar_grafico_temperaturas(dados_climaticos)
+
